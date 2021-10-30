@@ -5,13 +5,13 @@
         <div class="control">
           <div class="tags has-addons">
             <a
-              class="tag is-dark"
-              href="https://github.com/Aicirou/goindex-theme-acrou"
-            >goindex-theme-acrou</a>
+              class="tag is-success"
+              href="https://lazysano.blogspot.com/"
+            >LazySano</a>
             <span class="tag is-light">
-              MIT &nbsp;
+              صُنع بحب بواسطة &nbsp;
               <span class="icon">
-                <i class="fa fa-github"></i>
+                <i class="fa fa-heart""></i>
               </span>
             </span>
           </div>
