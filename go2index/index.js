@@ -67,7 +67,7 @@ var authConfig = {
 var themeOptions = {
   cdn: "https://cdn.jsdelivr.net/gh/LazySano/lazycdn",
   // 主题版本号
-  version: "2.0.8",
+  version: "latest",
   //可选默认系统语言:en/zh-chs/zh-cht
   languages: "en",
   render: {
