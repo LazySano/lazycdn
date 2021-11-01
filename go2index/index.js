@@ -67,7 +67,7 @@ var authConfig = {
 var themeOptions = {
   cdn: "https://cdn.jsdelivr.net/gh/LazySano/lazycdn",
   // 主题版本号
-  version: "latest",
+  version: "2.0.8",
   //可选默认系统语言:en/zh-chs/zh-cht
   languages: "en",
   render: {
@@ -152,7 +152,7 @@ function html(current_drive_order = 0, model = {}) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
   <title>${authConfig.siteName}</title>
   <style>
-    @import url(${themeOptions.cdn}@${themeOptions.version}/dist/style.min.css);
+    @import url(${themeOptions.cdn}/${themeOptions.version}/dist/style.min.css);
   </style>
   <script>
     window.gdconfig = JSON.parse('${JSON.stringify({
@@ -169,7 +169,7 @@ function html(current_drive_order = 0, model = {}) {
 </head>
 <body>
     <div id="app"></div>
-    <script src="${themeOptions.cdn}@${
+    <script src="${themeOptions.cdn}/${
     themeOptions.version
   }/dist/app.min.js"></script>
 </body>
