@@ -1,61 +1,61 @@
 {
-  "_name": "English",
+  "_name": "العربية",
   "languages": "Languages",
-  "index": "Home",
-  "folder": "Folder",
+  "index": "الرئيسية",
+  "folder": "المجلد",
   "notify": {
-    "title": "Notify"
+    "title": "إشعار"
   },
   "copy": {
-    "text": "Copy",
-    "success": "Copy successful",
-    "error": "Copy failed"
+    "text": "نسخ",
+    "success": "تم النسخ بنجاح",
+    "error": "فشل النسخ"
   },
   "list": {
     "view": {
       "gridMode": "Grid view",
       "listMode": "List view"
     },
-    "auth": "Directory encryption, please enter password",
+    "auth": "هذا المجلد مشفر، الرجاء إدخال كلمة المرور",
     "title": {
-      "file": "File",
-      "moditime": "Modified Time",
-      "size": "Size",
-      "operation": "Actions"
+      "file": "المحتويات",
+      "moditime": "تاريخ التعديل",
+      "size": "الحجم",
+      "operation": "الإجرائات"
     },
-    "loading": "Loading...",
+    "loading": "جاري التحميل...",
     "opt": {
-      "copy": "Copy link",
-      "newTab": "Open a new tab",
-      "download": "Download"
+      "copy": "نسخ الرابط",
+      "newTab": "افتحه في علامة تبويب جديدة",
+      "download": "تحميل"
     },
-    "total": "Total",
-    "item": "item"
+    "total": "المجموع هو",
+    "item": "من المحتويات هنا"
   },
   "search": {
-    "placeholder": "Search resources..."
+    "placeholder": "البحث عن محتويات"
   },
   "page": {
     "video": {
-      "play": "Play",
-      "download": "Download",
-      "link": "Download link"
+      "play": "تشغيل",
+      "download": "تحميل",
+      "link": "رابط التحميل"
     },
     "text": {
-      "loading": "Loading..."
+      "loading": "جاري التحميل..."
     }
   },
   "setting": {
     "clear": {
-      "text": "Clean cache",
-      "success": "Cache cleanup successful"
+      "text": "إزالة الكاش",
+      "success": "تمت إزالة الكاش بنجاح"
     }
   },
   "checkVersion": {
-    "tips": "New version detected, <a href='${url}'>Go to GitHub</a>"
+    "tips": "تم إكتشاف وجود نسخة جديدة, <a href='${url}'>إذهب إلى القيت هب حالًا</a>"
   },
   "error": {
     "shortcut_not_down": "Shortcut can't open/download",
-    "401": "Unauthorized, please login"
+    "401": "غير مصرح بك هنا، الرجاء تسجيل الدخول"
   }
 }
